@@ -1,10 +1,12 @@
 python高效开发
 ====
-##网络基础
-###一.tcp/ip网络
-###二.HTTP
-###三.Socket
-##客户端编程
+网络基础
+-------
+一.tcp/ip网络
+二.HTTP
+三.Socket
+客户端编程
+-------
 ###一.HTML
 ###二.CSS
 ###三.JavaScript
