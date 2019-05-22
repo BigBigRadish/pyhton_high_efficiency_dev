@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//net_basic/__init__.py=utf-8
+encoding//net_basic/tcp_client.py=utf-8
+encoding//net_basic/tcp_server.py=utf-8
 encoding/<project>=UTF-8
